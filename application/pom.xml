@@ -17,6 +17,16 @@
             <groupId>net.person</groupId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <artifactId>entity</artifactId>
+            <groupId>net.person</groupId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <artifactId>utils</artifactId>
+            <groupId>net.person</groupId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <packaging>war</packaging>
